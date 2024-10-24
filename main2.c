@@ -6,6 +6,7 @@
 #include "palindrome.h" 
 /******************************************************/
 /* another comment */ 
+/* another one */
 #include "removevowel.h"
 int main() 
 { 
